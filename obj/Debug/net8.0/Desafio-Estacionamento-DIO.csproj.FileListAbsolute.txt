@@ -1,0 +1,14 @@
+D:\workspaces\workspace-projetos-remotos\Desafio-Estacionamento-DIO\bin\Debug\net8.0\Desafio-Estacionamento-DIO.exe
+D:\workspaces\workspace-projetos-remotos\Desafio-Estacionamento-DIO\bin\Debug\net8.0\Desafio-Estacionamento-DIO.deps.json
+D:\workspaces\workspace-projetos-remotos\Desafio-Estacionamento-DIO\bin\Debug\net8.0\Desafio-Estacionamento-DIO.runtimeconfig.json
+D:\workspaces\workspace-projetos-remotos\Desafio-Estacionamento-DIO\bin\Debug\net8.0\Desafio-Estacionamento-DIO.dll
+D:\workspaces\workspace-projetos-remotos\Desafio-Estacionamento-DIO\bin\Debug\net8.0\Desafio-Estacionamento-DIO.pdb
+D:\workspaces\workspace-projetos-remotos\Desafio-Estacionamento-DIO\obj\Debug\net8.0\Desafio-Estacionamento-DIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspaces\workspace-projetos-remotos\Desafio-Estacionamento-DIO\obj\Debug\net8.0\Desafio-Estacionamento-DIO.AssemblyInfoInputs.cache
+D:\workspaces\workspace-projetos-remotos\Desafio-Estacionamento-DIO\obj\Debug\net8.0\Desafio-Estacionamento-DIO.AssemblyInfo.cs
+D:\workspaces\workspace-projetos-remotos\Desafio-Estacionamento-DIO\obj\Debug\net8.0\Desafio-Estacionamento-DIO.csproj.CoreCompileInputs.cache
+D:\workspaces\workspace-projetos-remotos\Desafio-Estacionamento-DIO\obj\Debug\net8.0\Desafio-Estacionamento-DIO.dll
+D:\workspaces\workspace-projetos-remotos\Desafio-Estacionamento-DIO\obj\Debug\net8.0\refint\Desafio-Estacionamento-DIO.dll
+D:\workspaces\workspace-projetos-remotos\Desafio-Estacionamento-DIO\obj\Debug\net8.0\Desafio-Estacionamento-DIO.pdb
+D:\workspaces\workspace-projetos-remotos\Desafio-Estacionamento-DIO\obj\Debug\net8.0\Desafio-Estacionamento-DIO.genruntimeconfig.cache
+D:\workspaces\workspace-projetos-remotos\Desafio-Estacionamento-DIO\obj\Debug\net8.0\ref\Desafio-Estacionamento-DIO.dll
